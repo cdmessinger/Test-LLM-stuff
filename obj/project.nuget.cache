@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9KxZZWLHxo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caleb\\Desktop\\LLM stuff\\LLMGamePrototype\\LLMGamePrototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caleb\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

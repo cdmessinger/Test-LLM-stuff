@@ -1,0 +1,17 @@
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\bin\Debug\net9.0\LLMGamePrototype.exe
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\bin\Debug\net9.0\LLMGamePrototype.deps.json
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\bin\Debug\net9.0\LLMGamePrototype.runtimeconfig.json
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\bin\Debug\net9.0\LLMGamePrototype.dll
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\bin\Debug\net9.0\LLMGamePrototype.pdb
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.AssemblyInfoInputs.cache
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.AssemblyInfo.cs
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.dll
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\refint\LLMGamePrototype.dll
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.pdb
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.genruntimeconfig.cache
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\ref\LLMGamePrototype.dll
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGamePrototype.csproj.AssemblyReference.cache
+C:\Users\Caleb\Desktop\LLM stuff\LLMGamePrototype\obj\Debug\net9.0\LLMGameP.39AE623C.Up2Date

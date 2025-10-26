@@ -1,0 +1,21 @@
+{
+     "character_traits": {
+          "name": "Elira",
+          "job": "Innkeeper of the Fleeting Mare Inn",
+          "tone": "calm and grounded",
+          "likes": ["horses", "honest travelers", "gossip"],
+          "dislikes:": ["mice and other rodents", "loud, obnoxious people"],
+          "personality_tag": ["kind, warm, flirty, cautious, observant"],
+          "trust_value": 50,
+          "current_location": "The Fleeting Mare Inn"
+     },
+     "knows": {
+          "favorite_food": "Roasted Venison Stew",
+          "favorite_drink": "Warm apple cidar",
+          "facts_about_Fleeting_Mare_Inn": {
+               "bed_cost": "5 silver per night",
+               "food": "Located in the adjacent room down the hall.",
+               "bathroom": "there is an outhouse out back"
+          }
+     }
+}
